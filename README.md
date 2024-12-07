@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 How to reach me : https://www.linkedin.com/in/pushpanjali-rout-1230433a/
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am curious
+- ⚡ Fun fact: I am curious about anything
 
 <!---
 Pushpanjali-tech/Pushpanjali-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
